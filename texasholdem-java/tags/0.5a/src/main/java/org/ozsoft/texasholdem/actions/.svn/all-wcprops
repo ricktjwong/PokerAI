@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions
+END
+BigBlindAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/BigBlindAction.java
+END
+BetAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/BetAction.java
+END
+CallAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/CallAction.java
+END
+CheckAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/CheckAction.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/Action.java
+END
+AllInAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/AllInAction.java
+END
+SmallBlindAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/SmallBlindAction.java
+END
+RaiseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/RaiseAction.java
+END
+ContinueAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/ContinueAction.java
+END
+FoldAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/61/tags/0.5a/src/main/java/org/ozsoft/texasholdem/actions/FoldAction.java
+END

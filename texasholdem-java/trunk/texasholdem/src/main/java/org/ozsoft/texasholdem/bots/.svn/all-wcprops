@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/60/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/bots
+END
+DummyBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/60/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/bots/DummyBot.java
+END
+Bot.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/60/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/bots/Bot.java
+END
+BasicBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/60/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/bots/BasicBot.java
+END

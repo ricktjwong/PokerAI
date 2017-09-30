@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/68/trunk/texasholdem/src/test/java/org/ozsoft/texasholdem
+END
+BasicBotTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/37/trunk/texasholdem/src/test/java/org/ozsoft/texasholdem/BasicBotTest.java
+END
+CardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/67/trunk/texasholdem/src/test/java/org/ozsoft/texasholdem/CardTest.java
+END
+HandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/68/trunk/texasholdem/src/test/java/org/ozsoft/texasholdem/HandTest.java
+END
+HandEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/68/trunk/texasholdem/src/test/java/org/ozsoft/texasholdem/HandEvaluatorTest.java
+END

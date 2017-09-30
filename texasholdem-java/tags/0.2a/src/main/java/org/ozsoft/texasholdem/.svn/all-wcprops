@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/Card.java
+END
+HandValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/HandValueType.java
+END
+Hand.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/Hand.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/Player.java
+END
+HandEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/HandEvaluator.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/Action.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/Client.java
+END
+ConsoleClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/ConsoleClient.java
+END
+Deck.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/Deck.java
+END
+HandValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/HandValue.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/63/tags/0.2a/src/main/java/org/ozsoft/texasholdem/Table.java
+END

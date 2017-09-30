@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/60/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/gui
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/59/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/gui/Main.java
+END
+BoardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/56/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/gui/BoardPanel.java
+END
+UIConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/37/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/gui/UIConstants.java
+END
+PlayerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/60/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/gui/PlayerPanel.java
+END
+ControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/57/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/gui/ControlPanel.java
+END
+ResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/37/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/gui/ResourceManager.java
+END
+AmountPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/60/trunk/texasholdem/src/main/java/org/ozsoft/texasholdem/gui/AmountPanel.java
+END
